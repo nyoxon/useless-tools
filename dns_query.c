@@ -1,3 +1,9 @@
+// a DNS-query software that uses DNS internally (brutal)
+// however, it is a reasonable piece of code for
+// understanding the internal structure of DNS
+
+// uselessness = 5/10
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
